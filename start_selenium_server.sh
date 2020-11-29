@@ -1,3 +1,5 @@
+# TODO just make a docker-compose and a docker file you dumb goose...
+
 docker pull selenium/standalone-chrome
 docker run -d -p 4444:4444 --shm-size=2g selenium/standalone-chrome:3.141.59-yttrium
 
